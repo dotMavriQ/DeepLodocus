@@ -1,5 +1,5 @@
 # DeepLodocus: A Web-Based Translation Tool
-!(https://github.com/dotMavriQ/deeplodocus/blob/main/deeplodocus.png?raw=true)
+!(https://github.com/dotMavriQ/deeplodocus/blob/main/deeplodocus.png?raw=true)[deeplodocus logo]
 
 **DeepLodocus** is a sleek and user-friendly web application designed to provide quick and accurate translations while retaining text formatting. This tool harnesses the power of the DeepL Pro API, offering high-quality translations with the convenience of a simple web interface.
 
